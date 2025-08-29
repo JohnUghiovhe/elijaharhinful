@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @elijaharhinful<br>👀 I’m interested in anything web development.<br>🌱 I’m currently learning React Js <br>💞️ I’m looking to collaborate on web development projects<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - elijaharhinful8@gmail.com
+👋 Hi, I’m @elijaharhinful<br>👀 I’m interested in anything web development. <br>💞️ I’m looking to collaborate on web development projects<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - elijaharhinful8@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/de.facto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elijah-arhinful) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7811008) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gh_defacto) 
